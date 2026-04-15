@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for nexbitai on 2026-04-15T00:38:39Z
+# fly.toml app configuration file generated for nextjs-boilerplate-itpv3q on 2026-04-15T02:34:06Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'nexbitai'
-primary_region = 'fra'
+app = 'nextjs-boilerplate-itpv3q'
+primary_region = 'ams'
 
 [build]
 
